@@ -1,0 +1,6 @@
+{
+    "description": "update cargo-zigbuild to enable powerpc compilation",
+    "issues": [1349],
+    "type": "changed",
+    "breaking": false
+}
